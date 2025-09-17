@@ -1,6 +1,6 @@
 > *Dimecres 17/09/2025*
 
-# Pool de connexions
+# Pool de conexions
 
 Una base de dades és costosa
 
@@ -37,3 +37,32 @@ Pots fer varios `com.Open()` i es guardarán múltiples conexions en una sola in
 `com.Close();` -> Tenca la connexió
 
 ---
+
+# Prova Connexió BD
+
+Un petit programa per provar a connectar a una base de dades
+
+```C#
+using System;
+using Microsoft.Data.SqlClient;
+using static System.Console;
+
+class Program {
+    static void Main()
+    {
+        string connectionString = "Server=localhost;Database=dbdemo;User Id=sa;Password=Patata1234;TrustServerCertificate=true;Encrypt=false";
+
+        SqlConnection connection = new SqlConnection(connectionString);
+        try
+        {
+            connection.Open();
+        }
+        catch (Exception ex)
+        {
+            WriteLine("Error a la connexió: " + ex.Message);
+        }
+        WriteLine("Connexió oberta correctament!");
+        connection.Close();
+    }
+}
+```
