@@ -62,3 +62,4 @@ C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioBD\obj\Debug\
 C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioBD\obj\Debug\net9.0\ProvaConnexioBD.pdb
 C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioBD\obj\Debug\net9.0\ProvaConnexioBD.genruntimeconfig.cache
 C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioBD\obj\Debug\net9.0\ref\ProvaConnexioBD.dll
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioBD\obj\Debug\net9.0\ProvaConnexioBD.sourcelink.json

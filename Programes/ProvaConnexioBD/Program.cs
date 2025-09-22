@@ -5,7 +5,7 @@ using static System.Console;
 class Program {
     static void Main()
     {
-        string connectionString = "Server=localhost;Database=dbdemo;User Id=sa;Password=Patata1234;TrustServerCertificate=true;Encrypt=false";
+        string connectionString = "Server=localhost;Database=master;User Id=sa;Password=Patata1234;TrustServerCertificate=true;Encrypt=false";
 
         SqlConnection connection = new SqlConnection(connectionString);
         try
