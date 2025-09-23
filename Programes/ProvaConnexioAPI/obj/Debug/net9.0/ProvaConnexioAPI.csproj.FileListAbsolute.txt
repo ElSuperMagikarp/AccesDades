@@ -1,0 +1,15 @@
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\bin\Debug\net9.0\ProvaConnexioAPI.exe
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\bin\Debug\net9.0\ProvaConnexioAPI.deps.json
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\bin\Debug\net9.0\ProvaConnexioAPI.runtimeconfig.json
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\bin\Debug\net9.0\ProvaConnexioAPI.dll
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\bin\Debug\net9.0\ProvaConnexioAPI.pdb
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.AssemblyInfoInputs.cache
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.AssemblyInfo.cs
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.csproj.CoreCompileInputs.cache
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.sourcelink.json
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.dll
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\refint\ProvaConnexioAPI.dll
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.pdb
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ProvaConnexioAPI.genruntimeconfig.cache
+C:\Users\Uriens\Desktop\2DAM\Accés a dades\Programes\ProvaConnexioAPI\obj\Debug\net9.0\ref\ProvaConnexioAPI.dll
