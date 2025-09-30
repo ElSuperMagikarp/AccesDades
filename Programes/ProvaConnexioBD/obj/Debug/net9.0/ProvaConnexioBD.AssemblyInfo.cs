@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaConnexioBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2502506b52b4fbfbca3c50c9f36af8b7cb1ed8ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6921f6ec484848b3f00bf6ec7571c69e93e6573e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaConnexioBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaConnexioBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
